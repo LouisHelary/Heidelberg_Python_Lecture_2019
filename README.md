@@ -5,7 +5,7 @@
 The goal of this lecture is to have a starting point to develop code in Python for students at the master or PhD level that already had some sort of programming lecture in the past.
 
 The lecture will be done in two steps:
- - First: go through the different files in the ./tutorial/ directory and try to 
+ - First: go through the different files in the ./tutorial/ directory and try to figure out each solution before running them. At the end of most of the tutorial there are some short examples that you should try to solve.
  - Second: let's look at the ./projects/ directory.
 
 ### Python installation:
